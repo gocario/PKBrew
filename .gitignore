@@ -1,0 +1,9 @@
+# Ignore archives
+*.rar
+*.zip
+
+# Ignore paint.net projects
+*.pdn
+
+# Ignore raw images
+*_raw*
