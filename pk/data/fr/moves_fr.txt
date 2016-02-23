@@ -1,5 +1,5 @@
 ﻿(Aucun)
-Écras’Face
+Écras'Face
 Poing-Karaté
 Torgnoles
 Poing Comète
@@ -27,10 +27,10 @@ Ultimawashi
 Pied Sauté
 Mawashi Geri
 Jet de Sable
-Coup d’Boule
-Koud’Korne
+Coup d'Boule
+Koud'Korne
 Furie
-Empal’Korne
+Empal'Korne
 Charge
 Plaquage
 Ligotage
@@ -41,7 +41,7 @@ Mimi-Queue
 Dard-Venin
 Double-Dard
 Dard-Nuée
-Groz’Yeux
+Groz'Yeux
 Morsure
 Rugissement
 Hurlement
@@ -59,7 +59,7 @@ Surf
 Laser Glace
 Blizzard
 Rafale Psy
-Bulles d’O
+Bulles d'O
 Onde Boréale
 Ultralaser
 Picpic
@@ -73,7 +73,7 @@ Vol-Vie
 Méga-Sangsue
 Vampigraine
 Croissance
-Tranch’Herbe
+Tranch'Herbe
 Lance-Soleil
 Poudre Toxik
 Para-Spore
@@ -109,7 +109,7 @@ Lilliput
 Brouillard
 Onde Folie
 Repli
-Boul’Armure
+Boul'Armure
 Bouclier
 Mur Lumière
 Buée Noire
@@ -119,16 +119,16 @@ Patience
 Métronome
 Mimique
 Destruction
-Bomb’Œuf
+Bomb'Œuf
 Léchouille
 Purédpois
 Détritus
-Massd’Os
+Massd'Os
 Déflagration
 Cascade
 Claquoir
 Météores
-Coud’Krâne
+Coud'Krâne
 Picanon
 Constriction
 Amnésie
@@ -187,7 +187,7 @@ Feinte
 Doux Baiser
 Cognobidon
 Bomb-Beurk
-Coud’Boue
+Coud'Boue
 Octazooka
 Picots
 Élecanon
@@ -209,7 +209,7 @@ Vantardise
 Lait à Boire
 Étincelle
 Taillade
-Aile d’Acier
+Aile d'Acier
 Regard Noir
 Attraction
 Blabla Dodo
@@ -245,7 +245,7 @@ Voile Miroir
 Boost
 Vitesse Extrême
 Pouvoir Antique
-Ball’Ombre
+Ball'Ombre
 Prescience
 Éclate-Roc
 Siphon
@@ -268,7 +268,7 @@ Par Ici
 Force-Nature
 Chargeur
 Provoc
-Coup d’Main
+Coup d'Main
 Tourmagik
 Imitation
 Vœu
@@ -294,12 +294,12 @@ Cogne
 Camouflage
 Lumiqueue
 Lumi-Éclat
-Ball’Brume
+Ball'Brume
 Danse-Plume
 Danse-Folle
 Pied Brûleur
 Lance-Boue
-Ball’Glace
+Ball'Glace
 Poing Dard
 Paresse
 Mégaphone
@@ -309,16 +309,16 @@ Rafale Feu
 Hydroblast
 Poing Météor
 Étonnement
-Ball’Météo
+Ball'Météo
 Aromathérapie
 Croco Larme
-Tranch’Air
+Tranch'Air
 Surchauffe
 Flair
 Tomberoche
 Vent Argenté
 Strido-Son
-Siffl’Herbe
+Siffl'Herbe
 Chatouille
 Force Cosmik
 Giclédo
@@ -380,7 +380,7 @@ Essorage
 Astuce Force
 Suc Digestif
 Air Veinard
-Moi d’Abord
+Moi d'Abord
 Photocopie
 Permuforce
 Permugarde
@@ -401,7 +401,7 @@ Vibrobscur
 Tranche-Nuit
 Hydroqueue
 Canon Graine
-Lame d’Air
+Lame d'Air
 Plaie-Croix
 Bourdon
 Dracochoc
@@ -426,14 +426,14 @@ Crocs Feu
 Ombre Portée
 Boue-Bombe
 Coupe Psycho
-Psykoud’Boul
+Psykoud'Boul
 Miroi-Tir
 Luminocanon
 Escalade
 Anti-Brume
 Distorsion
 Draco Météor
-Coup d’Jus
+Coup d'Jus
 Ébullilave
 Tempête Verte
 Mégafouet
@@ -455,7 +455,7 @@ Aqua-Jet
 Appel Attak
 Appel Défense
 Appel Soins
-Fracass’Tête
+Fracass'Tête
 Coup Double
 Hurle-Temps
 Spatio-Rift
@@ -515,10 +515,10 @@ Copie Type
 Vengeance
 Tout ou Rien
 Passe-Cadeau
-Feu d’Enfer
-Aire d’Eau
+Feu d'Enfer
+Aire d'Eau
 Aire de Feu
-Aire d’Herbe
+Aire d'Herbe
 Change Éclair
 Survinsecte
 Piétisol

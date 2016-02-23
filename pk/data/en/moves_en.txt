@@ -569,7 +569,7 @@ Trick-or-Treat
 Noble Roar
 Ion Deluge
 Parabolic Charge
-Forest’s Curse
+Forest's Curse
 Petal Blizzard
 Freeze-Dry
 Disarming Voice
@@ -586,7 +586,7 @@ Fairy Wind
 Moonblast
 Boomburst
 Fairy Lock
-King’s Shield
+King's Shield
 Play Nice
 Confide
 Diamond Storm
@@ -614,7 +614,7 @@ Power-Up Punch
 Oblivion Wing
 Thousand Arrows
 Thousand Waves
-Land’s Wrath
+Land's Wrath
 Light of Ruin
 Origin Pulse
 Precipice Blades
