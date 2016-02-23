@@ -1,4 +1,4 @@
-﻿(Ninguna)
+﻿(Ninguno)
 Destructor
 Golpe Kárate
 Doble Bofetón
