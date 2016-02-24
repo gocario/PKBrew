@@ -1,4 +1,4 @@
-﻿Egg
+Egg
 Bulbasaur
 Ivysaur
 Venusaur
