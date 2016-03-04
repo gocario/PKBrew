@@ -5,9 +5,9 @@ Nv.
 N.º Dex
 EO
 Estadísticas
-Valor
-VI
-PE
+ Valor
+ VI
+  PE
 PS
 Ataque
 Defensa

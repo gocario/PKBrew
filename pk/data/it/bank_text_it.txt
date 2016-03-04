@@ -6,8 +6,8 @@ Dex No.
 AO
 Stat
 Valore
-IV
-EV
+ IV
+  EV
 HP
 Attacco
 Difesa
