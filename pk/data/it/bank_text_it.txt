@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+Allenatore
+Lv.
+Dex No.
+OT
+Stat
+Valore
+IV
+EV
+HP
+Attacco
+Difesa
+Attacco Sp.
+Difesa Sp.
+Velocità
+Natura
+Abilità
+Oggetto
+Introforza
+Mosse
+Box
+
+[SAVEXIT_VIEWER]
+Stai per uscire da PHBank
+Salva ed esci
+Esci senza salvare
+Fai un backup del salvataggio
+Torna a PHBank

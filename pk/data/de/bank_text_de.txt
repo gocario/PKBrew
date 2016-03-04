@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+Game's OT*
+Lv.*
+Dex-Nr.
+OT*
+Stat*
+Wert
+IVs*
+EVs*
+KP
+Angriff
+Vert.
+Sp.-Ang.
+Sp.-Vert.
+Initiative
+Wessen
+Fähigkeit
+Item
+Kraftreserve
+Attacken
+Box*
+
+[SAVEXIT_VIEWER]
+Sie verden PHBank verlassen
+Speichern und verlassen
+Verlassen ohne speichern
+Speichern
+Ruckkehr zur PHBank

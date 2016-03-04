@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+Dresseur
+N.
+N° Dex
+D.O.
+Stat
+Valeur
+IVs
+EVs
+PV
+Attaque
+Défense
+Atq. Spé.
+Déf. Spé.
+Vitesse
+Nature
+Talent
+Objet
+Puis. Cachée
+Capacités
+Boîte
+
+[SAVEXIT_VIEWER]
+Vous allez quitter PHBank
+Sauver et quitter
+Quitter sans sauver
+Faire une sauvegarde
+Retourner à PHBank

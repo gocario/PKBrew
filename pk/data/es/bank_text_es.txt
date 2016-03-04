@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+EO del juego
+Nv.
+N.º Dex
+EO
+Estadísticas
+Valor
+VI
+PE
+PS
+Ataque
+Defensa
+At. Esp.
+Def. Esp.
+Velocidad
+Naturaleza
+Habilidad
+Objeto
+Poder Oculto
+Movimientos
+Caja
+
+[SAVEXIT_VIEWER]
+Estás a punto de salir de PHBank
+Guardar y salir
+Salir sin guardar
+Respaldar la partida
+Volver a PHBank

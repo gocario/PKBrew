@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+グームのおや
+Lv.
+ずかんNo.
+おや
+Stat*
+Value*
+IVs*
+EVs*
+HP
+こうげき
+ぼうぎよ
+とくこう
+とくぼう
+すばやさ
+せいかく
+とくせい
+もちもの
+Hidden Power*
+もつているわざ
+Box*
+
+[SAVEXIT_VIEWER]
+You are about to exit PHBank*
+Save and exit*
+Exit without saving*
+Backup the save*
+Return to PHBank*

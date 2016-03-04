@@ -1,0 +1,29 @@
+(Blank)
+[BOX_VIEWER]
+Game's Trainer
+Lv.
+Dex No.
+OT
+Stat
+Value
+IVs
+EVs
+HP
+Attack
+Defense
+Sp.Attack
+Sp.Defense
+Speed
+Nature
+Ability
+Item
+Hidden Power
+Moves
+Box
+
+[SAVEXIT_VIEWER]
+You are about to exit PHBank
+Save and exit
+Exit without saving
+Backup the save
+Return to PHBank
