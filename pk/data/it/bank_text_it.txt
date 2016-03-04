@@ -3,7 +3,7 @@
 Allenatore
 Lv.
 Dex No.
-OT
+AO
 Stat
 Valore
 IV

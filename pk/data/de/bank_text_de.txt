@@ -1,6 +1,6 @@
 (Blank)
 [BOX_VIEWER]
-Game's OT*
+Trainer*
 Lv.*
 Dex-Nr.
 OT*

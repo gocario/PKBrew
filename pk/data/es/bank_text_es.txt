@@ -1,6 +1,6 @@
 (Blank)
 [BOX_VIEWER]
-EO del juego
+Entrenador
 Nv.
 N.º Dex
 EO
