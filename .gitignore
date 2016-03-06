@@ -7,3 +7,6 @@
 
 # Ignore raw images
 *_raw*
+
+# The 3ds folder
+3ds/
