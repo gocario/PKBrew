@@ -8,5 +8,6 @@
 # Ignore raw images
 *_raw*
 
-# The 3ds folder
+# The release folder
+sdmc/
 3ds/
