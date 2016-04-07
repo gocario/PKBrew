@@ -4,7 +4,7 @@ Trainer*
 Lv.*
 Dex-Nr.
 OT*
-Stat*
+Stats*
 Wert
 IVs*
 EVs*

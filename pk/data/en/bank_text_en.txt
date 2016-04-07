@@ -4,7 +4,7 @@ Trainer
 Lv.
 Dex No.
 OT
-Stat
+Stats
 Value
 IVs
 EVs

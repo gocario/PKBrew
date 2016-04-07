@@ -4,7 +4,7 @@
 Lv.
 ずかんNo.
 おや
-Stat*
+Stats*
 Value*
 IVs*
 EVs*
