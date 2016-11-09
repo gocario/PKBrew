@@ -190,3 +190,44 @@ Rompeaura
 Mar del Albor
 Tierra del Ocaso
 Ráfaga Delta
+Firmeza
+Huida
+Retirada
+Hidrorrefuerzo
+Ensañamiento
+Escudo Limitado
+Vigilante
+Pompa
+Acero Templado
+Cólera
+Quitanieves
+Remoto
+Voz Fluida
+Primer Auxilio
+Piel Eléctrica
+Cola Surf
+Banco
+Disfraz
+Fuerte Afecto
+Agrupamiento
+Corrosión
+Letargo Perenne
+Regia Presencia
+Revés
+Pareja de Baile
+Batería
+Peluche
+Cuerpo Vívido
+Coránima
+Rizos Rebeldes
+Receptor
+Reacción Química
+Ultraimpulso
+Sistema Alfa
+Electrogénesis
+Psicogénesis
+Nebulogénesis
+Herbogénesis
+Guardia Metálica
+Guardia Espectro
+Armadura Prisma

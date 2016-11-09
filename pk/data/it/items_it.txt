@@ -59,7 +59,7 @@ Attacco X
 Difesa X
 Velocità X
 Precisione X
-Special X
+Att. Speciale X
 Dif. Speciale X
 Poké Bambola
 Coda Skitty
@@ -471,7 +471,7 @@ UnownBloc
 Piantabacche
 Ricerca Strum.
 Carta Blu
-Codaslowpoke
+Coda Slowpoke
 Campana Chiara
 Apriporta
 Chiave sotterr.
@@ -592,19 +592,19 @@ Coronantica
 Conostropoli
 Supercolpo 2
 Velocità X-2
-Special X-2
+Att. Sp. X-2
 Dif. Spec. X-2
 Difesa X-2
 Attacco X-2
 Precisione X-2
 Velocità X-3
-Special X-3
+Att. Sp. X-3
 Dif. Spec. X-3
 Difesa X-3
 Attacco X-3
 Precisione X-3
 Velocità X-6
-Special X-6
+Att. Sp. X-6
 Dif. Spec. X-6
 Difesa X-6
 Attacco X-6
@@ -704,7 +704,7 @@ Emblema di Kalos
 Guida Avventura
 Strano ninnolo
 Portalenti
-Baule per abiti
+Trousse
 Baule per abiti
 Pan di Lumi
 Yantafrollino
@@ -774,3 +774,148 @@ Meteorite
 Pietrachiave
 Framm. meteorite
 Flauto Eone
+Normium Z
+Pirium Z
+Idrium Z
+Electrium Z
+Herbium Z
+Glacium Z
+Luctium Z
+Venenium Z
+Terrium Z
+Volantium Z
+Psichium Z
+Insectium Z
+Petrium Z
+Spectrium Z
+Draconium Z
+Obscurium Z
+Metallium Z
+Follectium Z
+Pikacium Z
+Tappo d’argento
+Tappo d’oro
+Cerchio Z
+Deciduenium Z
+Incineronium Z
+Primarinium Z
+Tapium Z
+Marshadium Z
+Aloraicium Z
+Snorlactium Z
+Eevium Z
+Mewnium Z
+Normium Z
+Pirium Z
+Idrium Z
+Electrium Z
+Herbium Z
+Glacium Z
+Luctium Z
+Venenium Z
+Terrium Z
+Volantium Z
+Psichium Z
+Insectium Z
+Petrium Z
+Spectrium Z
+Draconium Z
+Obscurium Z
+Metallium Z
+Follectium Z
+Pikacium Z
+Deciduenium Z
+Incineronium Z
+Primarinium Z
+Tapium Z
+Marshadium Z
+Aloraicium Z
+Snorlactium Z
+Eevium Z
+Mewnium Z
+Ashpikacium Z
+Ashpikacium Z
+???
+???
+???
+???
+Portaingredienti
+Amo
+Maschera Prof.
+Festicket
+Pietra lucente
+Fifasfera
+Teca Zygarde
+???
+Pietragelo
+Chiamapassaggio
+UC Ball
+Malasada maxi
+Nettare rosso
+Nettare giallo
+Nettare rosa
+Nettare viola
+Flauto solare
+Flauto lunare
+???
+Lettera segreta
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Fissacampo
+Smorzaurti
+Elettroseme
+Psicoseme
+Nebbiaseme
+Erbaseme
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+ROM Lotta
+ROM Volante
+ROM Veleno
+ROM Terra
+ROM Roccia
+ROM Coleottero
+ROM Spettro
+ROM Acciaio
+ROM Fuoco
+ROM Acqua
+ROM Erba
+ROM Elettro
+ROM Psico
+ROM Ghiaccio
+ROM Drago
+ROM Buio
+ROM Folletto

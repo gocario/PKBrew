@@ -704,7 +704,7 @@ Honor of Kalos
 Adventure Rules
 Strange Souvenir
 Lens Case
-Travel Trunk
+Makeup Bag
 Travel Trunk
 Lumiose Galette
 Shalour Sable
@@ -774,3 +774,148 @@ Meteorite
 Key Stone
 Meteorite Shard
 Eon Flute
+Normalium Z
+Firium Z
+Waterium Z
+Electrium Z
+Grassium Z
+Icium Z
+Fightinium Z
+Poisonium Z
+Groundium Z
+Flyinium Z
+Psychium Z
+Buginium Z
+Rockium Z
+Ghostium Z
+Dragonium Z
+Darkinium Z
+Steelium Z
+Fairium Z
+Pikanium Z
+Bottle Cap
+Gold Bottle Cap
+Z-Ring
+Decidium Z
+Incinium Z
+Primarium Z
+Tapunium Z
+Marshadium Z
+Aloraichium Z
+Snorlium Z
+Eevium Z
+Mewnium Z
+Normalium Z
+Firium Z
+Waterium Z
+Electrium Z
+Grassium Z
+Icium Z
+Fightinium Z
+Poisonium Z
+Groundium Z
+Flyinium Z
+Psychium Z
+Buginium Z
+Rockium Z
+Ghostium Z
+Dragonium Z
+Darkinium Z
+Steelium Z
+Fairium Z
+Pikanium Z
+Decidium Z
+Incinium Z
+Primarium Z
+Tapunium Z
+Marshadium Z
+Aloraichium Z
+Snorlium Z
+Eevium Z
+Mewnium Z
+Pikashunium Z
+Pikashunium Z
+???
+???
+???
+???
+Forage Bag
+Fishing Rod
+Professor’s Mask
+Festival Ticket
+Sparkling Stone
+Adrenaline Orb
+Zygarde Cube
+???
+Ice Stone
+Ride Pager
+Beast Ball
+Big Malasada
+Red Nectar
+Yellow Nectar
+Pink Nectar
+Purple Nectar
+Sun Flute
+Moon Flute
+???
+Enigmatic Card
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Terrain Extender
+Protective Pads
+Electric Seed
+Psychic Seed
+Misty Seed
+Grassy Seed
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Fighting Memory
+Flying Memory
+Poison Memory
+Ground Memory
+Rock Memory
+Bug Memory
+Ghost Memory
+Steel Memory
+Fire Memory
+Water Memory
+Grass Memory
+Electric Memory
+Psychic Memory
+Ice Memory
+Dragon Memory
+Dark Memory
+Fairy Memory

@@ -84,11 +84,11 @@ Piedra Fuego
 Piedra Trueno
 Piedra Agua
 Piedra Hoja
-Mini Seta
+Miniseta
 Seta Grande
 Perla
 Perla Grande
-Polvoestelar
+Polvo Estelar
 Trozo Estrella
 Pepita
 Escama Corazón
@@ -233,8 +233,8 @@ Huevo Suerte
 Periscopio
 Revest. Metálico
 Restos
-Escamadragón
-Bolaluminosa
+Escama Dragón
+Bola Luminosa
 Arena Fina
 Piedra Dura
 Semilla Milagro
@@ -471,7 +471,7 @@ Bloc Unown
 Plantabayas
 Zahorí
 Tarjeta Azul
-Colaslowpoke
+Cola Slowpoke
 Campana Clara
 Llave Magnética
 Llave Sótano
@@ -704,7 +704,7 @@ Emblema Kalos
 Guía de Máximas
 Estatuilla Rara
 Portalentillas
-Maleta
+Kit Maquillaje
 Maleta
 Crêpe Luminalia
 Galleta Yantra
@@ -774,3 +774,148 @@ Meteorito
 Piedra Activadora
 Frag. Meteorito
 Flauta Eón
+Normastal Z
+Pirostal Z
+Hidrostal Z
+Electrostal Z
+Fitostal Z
+Criostal Z
+Lizastal Z
+Toxistal Z
+Geostal Z
+Aerostal Z
+Psicostal Z
+Insectostal Z
+Litostal Z
+Espectrostal Z
+Dracostal Z
+Nictostal Z
+Metalostal Z
+Feeristal Z
+Pikastal Z
+Chapa Plateada
+Chapa Dorada
+Pulsera Z
+Dueyestal Z
+Incinostal Z
+Primastal Z
+Tapistal Z
+Marshastal Z
+Alo-Raistal Z
+Snorlastal Z
+Eeveestal Z
+Mewstal Z
+Normastal Z
+Pirostal Z
+Hidrostal Z
+Electrostal Z
+Fitostal Z
+Criostal Z
+Lizastal Z
+Toxistal Z
+Geostal Z
+Aerostal Z
+Psicostal Z
+Insectostal Z
+Litostal Z
+Espectrostal Z
+Dracostal Z
+Nictostal Z
+Metalostal Z
+Feeristal Z
+Pikastal Z
+Dueyestal Z
+Incinostal Z
+Primastal Z
+Tapistal Z
+Marshastal Z
+Alo-Raistal Z
+Snorlastal Z
+Eeveestal Z
+Mewstal Z
+Ash-Pikastal Z
+Ash-Pikastal Z
+(?)
+(?)
+(?)
+(?)
+Zurrón
+Caña
+Máscara Profesor
+Festicupón
+Piedra Brillante
+Nerviosfera
+Arca de Zygarde
+(?)
+Piedra Hielo
+Buscamontura
+Ente Ball
+Malasada Maxi
+Néctar Rojo
+Néctar Amarillo
+Néctar Rosa
+Néctar Violeta
+Flauta Solar
+Flauta Lunar
+(?)
+Nota Intrigante
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+Cubresuelos
+Paracontacto
+Semilla Electro
+Semilla Psique
+Semilla Bruma
+Semilla Hierba
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+(?)
+Disco Lucha
+Disco Volador
+Disco Veneno
+Disco Tierra
+Disco Roca
+Disco Bicho
+Disco Fantasma
+Disco Acero
+Disco Fuego
+Disco Agua
+Disco Planta
+Disco Eléctrico
+Disco Psíquico
+Disco Hielo
+Disco Dragón
+Disco Siniestro
+Disco Hada

@@ -69,7 +69,7 @@ Torrent
 Essaim
 Tête de Roc
 Sécheresse
-Piège
+Piège Sable
 Esprit Vital
 Écran Fumée
 Force Pure
@@ -190,3 +190,44 @@ Aura Inversée
 Mer Primaire
 Terre Finale
 Souffle Delta
+Endurance
+Escampette
+Repli Tactique
+Sable Humide
+Cruauté
+Bouclier-Carcan
+Filature
+Aquabulle
+Expert Acier
+Dracolère
+Chasse-Neige
+Longue Portée
+Hydrata-Son
+Prioguérison
+Peau Électrique
+Surf Caudal
+Banc
+Fantômasque
+Synergie
+Rassemblement
+Corrosion
+Hypersommeil
+Prestance Royale
+Expuls’Organes
+Danseuse
+Batterie
+Boule de Poils
+Corps Coloré
+Animacœur
+Mèche Rebelle
+Receveur
+Osmose
+Boost Chimère
+Système Alpha
+Créa-Élec
+Créa-Psy
+Créa-Brume
+Créa-Herbe
+Métallo-Garde
+Spectro-Bouclier
+Prisme-Armure

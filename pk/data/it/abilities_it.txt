@@ -37,7 +37,7 @@ Risplendi
 Traccia
 Macroforza
 Velenopunto
-Fuocodentro
+Forza Interiore
 Magmascudo
 Idrovelo
 Magnetismo
@@ -190,3 +190,44 @@ Frangiaura
 Mare Primordiale
 Terra Estrema
 Flusso Delta
+Sopportazione
+Fuggifuggi
+Passoindietro
+Idrorinforzo
+Spietatezza
+Scudosoglia
+Sorveglianza
+Bolladacqua
+Tempracciaio
+Furore
+Spalaneve
+Distacco
+Idrovoce
+Primacura
+Pellelettro
+Codasurf
+Banco
+Fantasmanto
+Morfosintonia
+Sciamefusione
+Corrosione
+Sonno Assoluto
+Regalità
+Espellinterno
+Sincrodanza
+Batteria
+Morbidone
+Corposgargiante
+Cuoreanima
+Boccolidoro
+Ricezione
+Forza Chimica
+Ultraboost
+Sistema Primevo
+Elettrogenesi
+Psicogenesi
+Nebbiogenesi
+Erbogenesi
+Metalprotezione
+Spettroguardia
+Scudoprisma

@@ -60,13 +60,13 @@ X-Abwehr
 X-Tempo
 X-Treffer
 X-Spezial
-X-SpezialVer
+X-Spezial-Vert.
 Poképuppe
 Eneco-Rute
 Blaue Flöte
 Gelbe Flöte
 Rote Flöte
-Schw. Flöte
+Schwarze Flöte
 Weiße Flöte
 Küstensalz
 Küstenschale
@@ -277,7 +277,7 @@ Fokusgurt
 Zoomlinse
 Metronom
 Eisenkugel
-Schwerschwf.
+Schwerschweif
 Fatumknoten
 Giftschleim
 Eisbrocken
@@ -432,7 +432,7 @@ Regelbuch
 Pokéradar
 Punktekarte
 Tagebuch
-Stick.Koffer
+Stickerkoffer
 Modekoffer
 Stickertüte
 Adressbuch
@@ -452,7 +452,7 @@ Fahrrad
 B-Schlüssel
 Eichs Brief
 Lunarfeder
-Mitgl.Karte
+Mitgliedskarte
 Azurflöte
 Bootsticket
 Wettbewerbskarte
@@ -549,7 +549,7 @@ Fluchtknopf
 Feuerjuwel
 Wasserjuwel
 Elektrojuwel
-Pflanzjuwel
+Pflanzenjuwel
 Eisjuwel
 Kampfjuwel
 Giftjuwel
@@ -557,8 +557,8 @@ Bodenjuwel
 Flugjuwel
 Psychojuwel
 Käferjuwel
-Gesteinjuwel
-Geistjuwel
+Gesteinsjuwel
+Geisterjuwel
 Drakojuwel
 Unlichtjuwel
 Stahljuwel
@@ -593,23 +593,23 @@ Stratos-Eis
 Angriffplus2
 X-Tempo2
 X-Spezial2
-X-Sp. Ver.2
+X-Sp.-Vert.2
 X-Abwehr2
 X-Angriff2
 X-Treffer2
 X-Tempo3
 X-Spezial3
-X-Sp. Ver.3
+X-Sp.-Vert.3
 X-Abwehr3
 X-Angriff3
 X-Treffer3
 X-Tempo6
 X-Spezial6
-X-Sp. Ver.6
+X-Sp.-Vert.6
 X-Abwehr6
 X-Angriff6
 X-Treffer6
-Fäh.-Appell
+Fähigk.-Appell
 Itemabwurf
 Itemappell
 Umkehrappell
@@ -704,7 +704,7 @@ Kalos-Emblem
 Abenteuerfibel
 Skurriloskulptur
 Linsenetui
-Kleiderkoffer
+Kosmetiketui
 Kleiderkoffer
 Illumina-Galette
 Yantara-Sablé
@@ -774,3 +774,148 @@ Meteorit
 Schlüssel-Stein
 Meteoritenstück
 Äon-Flöte
+Normium Z
+Pyrium Z
+Aquium Z
+Voltium Z
+Botanium Z
+Glacium Z
+Battalium Z
+Toxium Z
+Terrium Z
+Aerium Z
+Psium Z
+Insectium Z
+Petrium Z
+Phantomium Z
+Dracium Z
+Noctium Z
+Metallium Z
+Sylphium Z
+Pikachium Z
+Silberkronkorken
+Goldkronkorken
+Z-Ring
+Silvarronium Z
+Fuegronium Z
+Primarenium Z
+Kapium Z
+Marshadownium Z
+A-Raichunium Z
+Relaxonium Z
+Evolium Z
+Mewnium Z
+Normium Z
+Pyrium Z
+Aquium Z
+Voltium Z
+Botanium Z
+Glacium Z
+Battalium Z
+Toxium Z
+Terrium Z
+Aerium Z
+Psium Z
+Insectium Z
+Petrium Z
+Phantomium Z
+Dracium Z
+Noctium Z
+Metallium Z
+Sylphium Z
+Pikachium Z
+Silvarronium Z
+Fuegronium Z
+Primarenium Z
+Kapium Z
+Marshadownium Z
+A-Raichunium Z
+Relaxonium Z
+Evolium Z
+Mewnium Z
+Ash-Pikachium Z
+Ash-Pikachium Z
+???
+???
+???
+???
+Zutatenbeutel
+Angel
+Maske des Profs
+Festival-Ticket
+Glitzerstein
+Zitterorb
+Zygarde-Würfel
+???
+Eisstein
+PokéMobil-Funk
+Ultraball
+Maxi-Malasada
+Roter Nektar
+Gelber Nektar
+Rosa Nektar
+Purpurner Nektar
+Sonnenflöte
+Mondflöte
+???
+Seltsame Karte
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Feldbeschichtung
+Schutzpolster
+Elektro-Samen
+Psycho-Samen
+Nebel-Samen
+Gras-Samen
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+???
+Kampf-Disc
+Flug-Disc
+Gift-Disc
+Boden-Disc
+Gesteins-Disc
+Käfer-Disc
+Geister-Disc
+Stahl-Disc
+Feuer-Disc
+Wasser-Disc
+Pflanzen-Disc
+Elektro-Disc
+Psycho-Disc
+Eis-Disc
+Drachen-Disc
+Unlicht-Disc
+Feen-Disc
